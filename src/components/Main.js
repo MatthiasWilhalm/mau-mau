@@ -9,6 +9,7 @@ import {
 import Card from "../structure/Card";
 import cardContent from "../structure/CardContent";
 import CardEditor from "./CardEditor";
+import Game from "./Game";
 import Home from "./Home";
 
 const Main = () => {
@@ -22,6 +23,7 @@ const Main = () => {
                     <Route exact path="/"><Home></Home></Route>
                     <Route path="/home"><Home></Home></Route>
                     <Route path="/editor"><CardEditor></CardEditor></Route>
+                    <Route path="/game"><Game></Game></Route>
                 </Switch>
             </Router>
         </div>

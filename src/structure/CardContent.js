@@ -2,7 +2,7 @@ const cardContent = {
     color: {
         CLOUD: "cloud",
         MUSHROOM: "mushroom",
-        FLOUR: "flower",
+        FLOWER: "flower",
         STAR: "star"
     },
     type: {

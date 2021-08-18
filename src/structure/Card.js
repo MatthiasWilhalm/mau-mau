@@ -6,7 +6,11 @@ class Card {
     imgURL = "" // img-file-url for the card
 
     constructor(color, type, value, rank, imgURL) {
-        this.color = color ?? this.color;
+        if(color instanceof Array)
+            this.color = color;
+        else if (color)
+            this.color = [color];
+            
         this.type = type ?? this.type;
         this.value = value ?? this.value;
         this.rank = rank ?? this.rank;

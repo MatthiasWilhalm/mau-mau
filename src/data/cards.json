@@ -1,0 +1,929 @@
+[
+    {
+        "color": [],
+        "type": "qmark",
+        "value": -1,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "qmark",
+        "value": -1,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "qmark",
+        "value": -1,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "qmark",
+        "value": -1,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "qmark",
+        "value": -1,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "wmark",
+        "value": -1,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "wmark",
+        "value": -1,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "wmark",
+        "value": -1,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "wmark",
+        "value": -1,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "wmark",
+        "value": -1,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "bomb",
+        "value": 0,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "bombShield",
+        "value": 0,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "ghost",
+        "value": 0,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "sword",
+        "value": 0,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "ace",
+        "value": 0,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "plane",
+        "value": 0,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "reverse",
+        "value": 0,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "wind",
+        "value": 0,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [],
+        "type": "flash",
+        "value": 0,
+        "rank": -1,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "bomb",
+        "value": 0,
+        "rank": 1,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "bombShield",
+        "value": 0,
+        "rank": 2,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "ghost",
+        "value": 0,
+        "rank": 3,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "sword",
+        "value": 0,
+        "rank": 4,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "ace",
+        "value": 0,
+        "rank": 5,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "plane",
+        "value": 0,
+        "rank": 6,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "reverse",
+        "value": 0,
+        "rank": 7,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "wind",
+        "value": 0,
+        "rank": 8,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "flash",
+        "value": 0,
+        "rank": 9,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "number",
+        "value": 1,
+        "rank": 10,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "number",
+        "value": 2,
+        "rank": 11,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "default",
+        "value": 1,
+        "rank": 12,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "default",
+        "value": 2,
+        "rank": 13,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "default",
+        "value": 3,
+        "rank": 14,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "default",
+        "value": 4,
+        "rank": 15,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "default",
+        "value": 5,
+        "rank": 16,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "default",
+        "value": 6,
+        "rank": 17,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "default",
+        "value": 7,
+        "rank": 18,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "default",
+        "value": 8,
+        "rank": 19,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "default",
+        "value": 9,
+        "rank": 20,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud"
+        ],
+        "type": "default",
+        "value": 10,
+        "rank": 21,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "bomb",
+        "value": 0,
+        "rank": 22,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "cloud",
+            "mushroom"
+        ],
+        "type": "superBomb",
+        "value": 0,
+        "rank": 23,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "bombShield",
+        "value": 0,
+        "rank": 24,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "ghost",
+        "value": 0,
+        "rank": 25,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "sword",
+        "value": 0,
+        "rank": 26,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "ace",
+        "value": 0,
+        "rank": 27,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "plane",
+        "value": 0,
+        "rank": 28,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "reverse",
+        "value": 0,
+        "rank": 29,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "wind",
+        "value": 0,
+        "rank": 30,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "flash",
+        "value": 0,
+        "rank": 31,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "number",
+        "value": 3,
+        "rank": 32,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "number",
+        "value": 4,
+        "rank": 33,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "default",
+        "value": 1,
+        "rank": 34,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "default",
+        "value": 2,
+        "rank": 35,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "default",
+        "value": 3,
+        "rank": 36,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "default",
+        "value": 4,
+        "rank": 37,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "default",
+        "value": 5,
+        "rank": 38,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "default",
+        "value": 6,
+        "rank": 39,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "default",
+        "value": 7,
+        "rank": 40,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "default",
+        "value": 8,
+        "rank": 41,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "default",
+        "value": 9,
+        "rank": 42,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "mushroom"
+        ],
+        "type": "default",
+        "value": 10,
+        "rank": 43,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "bomb",
+        "value": 0,
+        "rank": 44,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "bombShield",
+        "value": 0,
+        "rank": 45,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "ghost",
+        "value": 0,
+        "rank": 46,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "sword",
+        "value": 0,
+        "rank": 47,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "ace",
+        "value": 0,
+        "rank": 48,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "plane",
+        "value": 0,
+        "rank": 49,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "reverse",
+        "value": 0,
+        "rank": 50,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "wind",
+        "value": 0,
+        "rank": 51,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "flash",
+        "value": 0,
+        "rank": 52,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "number",
+        "value": 5,
+        "rank": 53,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "number",
+        "value": 6,
+        "rank": 54,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "number",
+        "value": 7,
+        "rank": 55,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "default",
+        "value": 1,
+        "rank": 56,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "default",
+        "value": 2,
+        "rank": 57,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "default",
+        "value": 3,
+        "rank": 58,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "default",
+        "value": 4,
+        "rank": 59,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "default",
+        "value": 5,
+        "rank": 60,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "default",
+        "value": 6,
+        "rank": 61,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "default",
+        "value": 7,
+        "rank": 62,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "default",
+        "value": 8,
+        "rank": 63,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "default",
+        "value": 9,
+        "rank": 64,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower"
+        ],
+        "type": "default",
+        "value": 10,
+        "rank": 65,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "bomb",
+        "value": 0,
+        "rank": 66,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "flower",
+            "star"
+        ],
+        "type": "superBomb",
+        "value": 0,
+        "rank": 67,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "bombShield",
+        "value": 0,
+        "rank": 68,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "ghost",
+        "value": 0,
+        "rank": 69,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "sword",
+        "value": 0,
+        "rank": 70,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "ace",
+        "value": 0,
+        "rank": 71,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "plane",
+        "value": 0,
+        "rank": 72,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "reverse",
+        "value": 0,
+        "rank": 73,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "wind",
+        "value": 0,
+        "rank": 74,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "flash",
+        "value": 0,
+        "rank": 75,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "number",
+        "value": 8,
+        "rank": 76,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "number",
+        "value": 9,
+        "rank": 77,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "number",
+        "value": 10,
+        "rank": 78,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "default",
+        "value": 1,
+        "rank": 79,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "default",
+        "value": 2,
+        "rank": 80,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "default",
+        "value": 3,
+        "rank": 81,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "default",
+        "value": 4,
+        "rank": 82,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "default",
+        "value": 5,
+        "rank": 83,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "default",
+        "value": 6,
+        "rank": 84,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "default",
+        "value": 7,
+        "rank": 85,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "default",
+        "value": 8,
+        "rank": 86,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "default",
+        "value": 9,
+        "rank": 87,
+        "imgURL": ""
+    },
+    {
+        "color": [
+            "star"
+        ],
+        "type": "default",
+        "value": 10,
+        "rank": 88,
+        "imgURL": ""
+    }
+]
