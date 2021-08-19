@@ -5,6 +5,14 @@ class Card {
     rank = -1 // the rank for the battlecard (-1 is unranked)
     imgURL = "" // img-file-url for the card
 
+    /**
+     * 
+     * @param {String} color 
+     * @param {String} type 
+     * @param {Number} value 
+     * @param {Number} rank 
+     * @param {String} imgURL 
+     */
     constructor(color, type, value, rank, imgURL) {
         if(color instanceof Array)
             this.color = color;
